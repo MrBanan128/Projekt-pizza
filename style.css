@@ -67,3 +67,42 @@ body {
     margin-left: 10px;
 
 }
+
+.slider-box {
+    height: 200px;
+    background-color: black;
+}
+
+.slider-half-item {
+    width: 50%;
+    float: left;
+    height: 100%;
+    font-family: cursive, Geneva;
+    padding: 10px;
+}
+
+.slider-half-item article {
+    margin: 2rem;
+}
+
+.slider-half-item article .button-section {
+    margin-top: 2rem;
+}
+
+.slider-half-item .button {
+    text-transform: uppercase;
+    padding: 8px;
+    text-decoration: none;
+    margin: 2px;
+    font-size: 0.7rem;
+}
+
+.order-button {
+    color: #FFD77F;
+    border: 2px solid #7fd7ff;
+}
+
+.book-button {
+    color: #FFD77F;
+    border: 2px solid #7fd7ff;
+}
